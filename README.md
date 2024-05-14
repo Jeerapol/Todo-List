@@ -20,15 +20,17 @@ A simple todo list application built with React.
    git clone <repository-url>
 
 2. Install dependencies:
-   
+
+   ```bash
    npm install
 
 
 3. Run the development server
    
+   ```bash
    npm run dev
 
-4. Access the application in your browser at http://localhost:3000.
+5. Access the application in your browser at http://localhost:3000.
    
 ## Technologies Used
 
