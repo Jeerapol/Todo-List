@@ -24,7 +24,6 @@ A simple todo list application built with React.
    ```bash
    npm install
 
-
 3. Run the development server
    
    ```bash
